@@ -29,7 +29,7 @@ This project developed by using R Programming. Also I have used various stastics
 
 ----
 
-## Category Name : Introduction to Programming ( Python )
+## Introduction to Programming ( Python )
 ### 2. The Weather App - Python
 
 [Github Location](https://github.com/RGunasekaran21249030/DS510_Week2_1)
@@ -77,7 +77,7 @@ This project developed by using R Programming.
 
 ---
 
-## Category Name : Data Mining
+## Data Mining
 
 ### 6. Customer Review Analysis and Recommendations - Python
 [Github location](https://github.com/RGunasekaran21249030/DSC550/tree/master/Week%2010)
@@ -86,7 +86,7 @@ I have done some Sentimental Analytics and NLTP techniques to perform the Custom
 
 <img src="Sentiment.PNG"/>
 
-## Category Name : Predictive Analytics
+## Predictive Analytics
 
 ### 7. The Application of Predictive Analytics on COVID 19 Cases and Deaths - Time Series
 [Github location](https://github.com/RGunasekaran21249030/DSC630)
@@ -108,6 +108,4 @@ I have built Time Series ARIMA Model to the Application of Predictive Analytics 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/RGunasekaran21249030/RagunathGuasekaran.github.io">Ragunath Gunasekaran </a></p>
-<!-- Remove above link if you don't want to attibute -->
+
