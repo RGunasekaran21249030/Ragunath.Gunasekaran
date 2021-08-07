@@ -53,9 +53,21 @@ This project developed by using Python Programming.
 <img src="PDF.PNG"/>
 
 ---
+### 4. US Election prediction - R
+
+[Github location](https://github.com/RGunasekaran21249030/dsc520/blob/master/Final_Project1_GunasekaranRagunath%20(2)%20(1).docx)
+
+Data consolidated Kaggle and Twitter API. The model used was very basic approaches. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied all the new features and make this prediction work very well. 
+
+This project developed by using R Programming.
+
+<img src="US 2016 Election.PNG"/>
+
+---
 
 ## Data Preparation
-### 4. Indicators of World Development and COVID19 Impacts - Python and Power BI
+
+### 5. Indicators of World Development and COVID19 Impacts - Python and Power BI
 
 [Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
 
@@ -65,17 +77,6 @@ This project developed by using Python Programming.
 
 
 <img src="COVID19EDA.PNG"/>
-
----
-### 5. US Election prediction - R
-
-[Github location](https://github.com/RGunasekaran21249030/dsc520/blob/master/Final_Project1_GunasekaranRagunath%20(2)%20(1).docx)
-
-Data consolidated Kaggle and Twitter API. The model used was very basic approaches. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied all the new features and make this prediction work very well. 
-
-This project developed by using R Programming.
-
-<img src="US 2016 Election.PNG"/>
 
 ---
 
