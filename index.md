@@ -21,7 +21,7 @@ The higher level focus of the Master of Science in Data Science as below
 
 My Project intends to thoroughly exploratory data analysis of the avocado prices increase along with customer behavior. The Data comes from Kaggle which is provided by the Hass Avocado Board website compiled into a one CSV file and the data contains from 2015 to 2018 Avocado Purchases in the USA. The Project also tries to analyze the price elasticity of demand and find the comparison of conventional and organic avocados since Organic consumption is increasing in recent days.
 
-This project developed by using R Programming. Also I have used various statistics related to regression Linear, Multi-Linear Techniques and various visualization techniques.
+> This project developed by using R Programming. Also I have used various statistics related to regression Linear, Multi-Linear Techniques and various visualization techniques.
 
 <img src="Avocado Price Prediction.jpg?raw=true"/>
 
@@ -33,6 +33,8 @@ This project developed by using R Programming. Also I have used various statisti
 [Github Location](https://github.com/RGunasekaran21249030/DS510_Week2_1)
 
 In this semester I worked on the various Python functions and learnt the programmatic approaches in Python. As part of the Weather App using python.
+
+> This project developed by using Python and API Programming.
 
 Below image is similar to the App which I created - Ref from Google
 
@@ -47,7 +49,7 @@ Below image is similar to the App which I created - Ref from Google
 
 Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends, Geographic and Various visualizations, Prediction of CoronaVirus in the USA by using COVID19 Datasets and Python Programming Language. As part of this Project, I have used various statistics related distributions like PDF, CDF, PMF.
 
-This project developed by using Python Programming.
+> This project developed by using Python and Statistics.
 
 
 <img src="PDF.PNG"/>
@@ -59,7 +61,7 @@ This project developed by using Python Programming.
 
 Data consolidated Kaggle and Twitter API. The model used was very basic. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied to all the new features and make this prediction work very well. 
 
-This project developed by using R Programming.
+> This project developed by using R Programming.
 
 <img src="US 2016 Election.PNG"/>
 
@@ -73,7 +75,7 @@ This project developed by using R Programming.
 
 The aim of the Project is to analyze and answer interesting questions about the world development indicators and COVID19 Impacts dataset that was provided by the World Bank.
 
-This project developed by using SQL, Python and Power BI
+> This project developed by using SQL, Python and Power BI
 
 
 <img src="COVID19EDA.PNG"/>
@@ -87,6 +89,8 @@ This project developed by using SQL, Python and Power BI
 
 I have done some Sentimental Analytics and NLP techniques to perform the Customer Review and Recommendation of Product Analysis. I have performed EDA Very well and implemented all the necessary best practices. Data used from Amazon and Kaggle. Out of 6 models, SVM performed well
 
+> This project developed by using Python and NLP, ML Algorithms.
+
 <img src="Sentiment.PNG"/>
 
 ## Predictive Analytics
@@ -95,6 +99,8 @@ I have done some Sentimental Analytics and NLP techniques to perform the Custome
 [Github location](https://github.com/RGunasekaran21249030/DSC630)
 
 I have built a Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
+
+> This project developed by using Python and Time Series Forecasting Algorithms.
 
 <img src="Predictive Analysis.PNG"/>
 
@@ -105,6 +111,8 @@ I have built a Time Series ARIMA Model to the Application of Predictive Analytic
 [Github location](https://github.com/RGunasekaran21249030/dsc650)
 
 As part of the Big Data Project, I have set up the data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
+
+> This project developed by using Python and Keras/Tensorflow.
 
 <img src="Big Data.PNG"/>
 
