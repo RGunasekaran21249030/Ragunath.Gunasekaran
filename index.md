@@ -13,9 +13,9 @@ The higher level focus of the Master of Science in Data Science as below
 
 ---
 
-### Category Name : Introduction ( DS, Python, R and Stastics ) 
+## Category Name : Introduction ( DS, Python, R and Stastics ) 
 
-#### 1. Avocado Price Prediction - Exploratory Data Analysis in R
+### 1. Avocado Price Prediction - Exploratory Data Analysis in R
 
 [Github Location](https://github.com/RGunasekaran21249030/DSC520-new/tree/master/assignments/Final%20Project)
 
@@ -29,7 +29,7 @@ This project developed by using R Programming. Also I have used various stastics
 
 ----
 
-#### 2. The Weather App - Python
+### 2. The Weather App - Python
 
 [Github Location](https://github.com/RGunasekaran21249030/DS510_Week2_1)
 
@@ -39,7 +39,7 @@ In this semester worked on the various Python functions and learnt the programat
 
 ---
 
-#### 3. COVID19 EDA - Trends and Outbreak Prediction of Spread in USA - Python
+### 3. COVID19 EDA - Trends and Outbreak of Spread in USA - Python
 
 [Github location](https://github.com/RGunasekaran21249030/DS530-RGunasekaran/tree/master/Final%20Project)
 
@@ -53,7 +53,20 @@ This project developed by using Python Programming.
 ---
 
 
-### Category Name 2
+## Category Name : Exploratory Data Analysis
+
+### 4. Indicators of World Development and COVID19 Impacts 
+
+[Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
+
+The aim of the Project is to analysis to answer interesting questions about the world development indicators and COVID19 Impacts dataset that was provided by the World Bank.
+
+This project developed by using Python Programming.
+
+
+<img src="COVID19EDA.PNG"/>
+
+---
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
