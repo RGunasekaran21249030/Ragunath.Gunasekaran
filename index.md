@@ -6,13 +6,13 @@ I’m looking forward to applying various techniques of the power of Artificial 
 
 The higher level focus of the Master of Science in Data Science as below
 
-  1. Preparation of datasets for solving problems.
+  <br>1. Preparation of datasets for solving problems.
   
-  2. Recommendation of appropriate data modeling techniques to test hypotheses.
+  <br>2. Recommendation of appropriate data modeling techniques to test hypotheses.
   
-  3. Communication of data science results in answers for domain challenges.
+  <br>3. Communication of data science results in answers for domain challenges.
   
-  4. Identify ethical considerations in dataset preparation and modeling.
+  <br>4. Identify ethical considerations in dataset preparation and modeling.
 
 ---
 
