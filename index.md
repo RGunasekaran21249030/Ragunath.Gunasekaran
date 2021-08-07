@@ -7,11 +7,11 @@ I’m looking forward to apply various techniques of the power of Artificial Int
 
 ### Category Name : Introduction ( DS, Python, R and Stastics ) 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Introduction to DataScinece](/sample_page)
+<img src="Introduction DS.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/sample_presentation.pdf)Artificial Intelligence and Machine Learning 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
