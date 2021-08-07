@@ -13,7 +13,7 @@ The higher level focus of the Master of Science in Data Science as below
 
 ---
 
-## Category Name : Introduction ( DS, Python, R and Stastics ) 
+## Category Name : Statistics for Data Science 
 
 ### 1. Avocado Price Prediction - R
 
@@ -29,6 +29,7 @@ This project developed by using R Programming. Also I have used various stastics
 
 ----
 
+## Category Name : Introduction to Programming ( Python )
 ### 2. The Weather App - Python
 
 [Github Location](https://github.com/RGunasekaran21249030/DS510_Week2_1)
@@ -39,6 +40,7 @@ In this semester worked on the various Python functions and learnt the programat
 
 ---
 
+## Data Exploration and Analysis
 ### 3. COVID19 EDA - Trends and Outbreak of Spread in USA - Python
 
 [Github location](https://github.com/RGunasekaran21249030/DS530-RGunasekaran/tree/master/Final%20Project)
@@ -52,9 +54,7 @@ This project developed by using Python Programming.
 
 ---
 
-
-## Category Name : Exploratory Data Analysis
-
+## Data Preparation
 ### 4. Indicators of World Development and COVID19 Impacts - Python and Power BI
 
 [Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
@@ -67,6 +67,35 @@ This project developed by using Python Programming.
 <img src="COVID19EDA.PNG"/>
 
 ---
+### 5. US Election prediction - R
+
+[Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
+
+Data consolidated Kaggle and Twitter API. The model used was very basic approaches. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied all the new features and make this prediction work very well. 
+
+This project developed by using R Programming.
+
+---
+
+## Category Name : Data Mining
+
+### 6. Customer Review Analysis and Recommendations - Python
+[Github location](https://github.com/RGunasekaran21249030/DSC550/tree/master/Week%2010)
+
+I have done some Sentimental Analytics and NLTP techniques to perform the Customer Review and Recommendation of Product Analysis. I have performed EDA Very well and implemented all the necessary best practices. Data used from Amazon and Kaggle. Out of 6 models, SVM performed well
+
+<img src="Sentiment.PNG"/>
+
+## Category Name : Predictive Analytics
+
+### 7. The Application of Predictive Analytics on COVID 19 Cases and Deaths - Time Series
+[Github location](https://github.com/RGunasekaran21249030/DSC630)
+
+I have built Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
+
+<img src="Predictive Analysis.PNG"/>
+
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
