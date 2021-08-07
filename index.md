@@ -34,6 +34,8 @@ This project developed by using R Programming. Also I have used various stastics
 
 In this semester worked on the various Python functions and learnt the programatic approaches in Python. As part of the Weather App using python.
 
+Below image is similar to the App which I created - Ref from Google
+
 <img src="Weather App.png"/>
 
 ---
