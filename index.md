@@ -14,7 +14,7 @@ I’m looking forward to apply various techniques of the power of Artificial Int
 
 ---
 [The Weather App - Python](/pdf/sample_presentation.pdf) The Weather App - Python 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Weather App.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
