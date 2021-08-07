@@ -34,7 +34,7 @@ My Project intends to thoroughly exploratory data analysis of the avocado prices
 
 In this semester I worked on the various Python functions and learnt the programmatic approaches in Python. As part of the Weather App using python.
 
-> This project developed by using Python and API Programming.
+> This project was developed using Python and API Programming.
 
 Below image is similar to the App which I created - Ref from Google
 
@@ -49,7 +49,7 @@ Below image is similar to the App which I created - Ref from Google
 
 Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends, Geographic and Various visualizations, Prediction of CoronaVirus in the USA by using COVID19 Datasets and Python Programming Language. As part of this Project, I have used various statistics related distributions like PDF, CDF, PMF.
 
-> This project developed by using Python and Statistics.
+> This project was developed using Python and Statistics.
 
 
 <img src="PDF.PNG"/>
@@ -61,7 +61,7 @@ Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends,
 
 Data consolidated Kaggle and Twitter API. The model used was very basic. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied to all the new features and make this prediction work very well. 
 
-> This project developed by using R Programming.
+> This project was developed using R Programming.
 
 <img src="US 2016 Election.PNG"/>
 
@@ -75,7 +75,7 @@ Data consolidated Kaggle and Twitter API. The model used was very basic. After t
 
 The aim of the Project is to analyze and answer interesting questions about the world development indicators and COVID19 Impacts dataset that was provided by the World Bank.
 
-> This project developed by using SQL, Python and Power BI
+> This project was developed using SQL, Python and Power BI
 
 
 <img src="COVID19EDA.PNG"/>
@@ -89,7 +89,7 @@ The aim of the Project is to analyze and answer interesting questions about the 
 
 I have done some Sentimental Analytics and NLP techniques to perform the Customer Review and Recommendation of Product Analysis. I have performed EDA Very well and implemented all the necessary best practices. Data used from Amazon and Kaggle. Out of 6 models, SVM performed well
 
-> This project developed by using Python and NLP, ML Algorithms.
+> This project was developed using Python and NLP, ML Algorithms.
 
 <img src="Sentiment.PNG"/>
 
@@ -100,7 +100,7 @@ I have done some Sentimental Analytics and NLP techniques to perform the Custome
 
 I have built a Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
 
-> This project developed by using Python and Time Series Forecasting Algorithms.
+> This project was developed by Python and Time Series Forecasting Algorithms.
 
 <img src="Predictive Analysis.PNG"/>
 
@@ -112,7 +112,7 @@ I have built a Time Series ARIMA Model to the Application of Predictive Analytic
 
 As part of the Big Data Project, I have set up the data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
 
-> This project developed by using Python and Keras/Tensorflow.
+> This project was developed using Python and Keras/Tensorflow.
 
 <img src="Big Data.PNG"/>
 
