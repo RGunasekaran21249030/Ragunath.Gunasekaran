@@ -39,7 +39,7 @@ Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends,
 This project developed by using Python Programming.
 
 
-<img src="PDF.png"/>
+<img src="PDF.PNG"/>
 
 ---
 
