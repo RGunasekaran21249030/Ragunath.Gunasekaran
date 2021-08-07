@@ -69,11 +69,13 @@ This project developed by using Python Programming.
 ---
 ### 5. US Election prediction - R
 
-[Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
+[Github location](https://github.com/RGunasekaran21249030/dsc520/blob/master/Final_Project1_GunasekaranRagunath%20(2)%20(1).docx)
 
 Data consolidated Kaggle and Twitter API. The model used was very basic approaches. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied all the new features and make this prediction work very well. 
 
 This project developed by using R Programming.
+
+<img src="US 2016 Election.PNG"/>
 
 ---
 
