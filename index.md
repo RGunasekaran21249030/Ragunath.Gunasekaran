@@ -99,7 +99,7 @@ I have built Time Series ARIMA Model to the Application of Predictive Analytics 
 ### 8. Binary classification example Classifying movie reviews - keras
 [Github location](https://github.com/RGunasekaran21249030/dsc650)
 
-As part of Big Data Project,I have set up the of data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
+As part of Big Data Project, I have set up the of data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
 
 <img src="Big Data.PNG"/>
 
