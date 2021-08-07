@@ -1,10 +1,10 @@
 # Welcome to my portfolio.
 
-I'm a Data Scientist and Engineer at Applied Materials, putting the power of Artificial Intelligence and Machine Learning at the edge of Industry 4.0 and next-generation Smart Factory Automation.
+I'm a Data/BI Arichitect at Financial Domain.  As part of MS Program,I have specialized in Machine Learning, Data Mining, Exploratory Data Analysis, Visualization, and Big Data.
 
-I specialize in early failure detection for machinery, prognostic analysis, dashboards, visualization, and exploratory data analysis
 
-I’m looking to collaborate on data science projects, machine learning, and applications of data science in other fields
+I’m looking to forward to excel on Predictive Analytics and AI projects, machine learning, and applications of data science.
+
 
 ### Category Name 1 
 
