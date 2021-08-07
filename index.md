@@ -102,7 +102,7 @@ I have built Time Series ARIMA Model to the Application of Predictive Analytics 
 <!-- Remove above link if you don't want to attibute -->
 
 ---
-<p style="font-size:11px">Reference <a href="https://github.com/evanca/quick-portfolio"></a></p>
+<p style="font-size:11px">Reference <a href="https://github.com/evanca/quick-portfolio"> portfolio</a></p>
 <!-- Remove above link if you don't want to attibute -->
 
 
