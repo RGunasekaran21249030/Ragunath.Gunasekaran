@@ -101,6 +101,9 @@ I have built Time Series ARIMA Model to the Application of Predictive Analytics 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/RGunasekaran21249030/RagunathGuasekaran.github.io">Ragunath Gunasekaran </a></p>
 <!-- Remove above link if you don't want to attibute -->
 
+---
+<p style="font-size:11px">Reference <a href="https://github.com/evanca/quick-portfolio"></a></p>
+<!-- Remove above link if you don't want to attibute -->
 
 
 
