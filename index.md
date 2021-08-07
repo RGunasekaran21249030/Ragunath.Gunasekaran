@@ -13,7 +13,7 @@ I’m looking forward to apply various techniques of the power of Artificial Int
 <img src="Introduction DS.png"/>
 
 ---
-[The Weather App - Python](/pdf/sample_presentation.pdf) The Weather App - Python 
+[The Weather App - Python](https://github.com/RGunasekaran21249030/DS510_Week2_1)
 <img src="Weather App.png"/>
 
 ---
