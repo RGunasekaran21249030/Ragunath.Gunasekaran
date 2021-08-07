@@ -4,16 +4,17 @@ I'm a Strong Data Analytics professional (Data Architect) with a Master of Scien
 
 I’m looking forward to apply various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Reporting and Analytics / AI projects, machine learning, and applications of data science.
 
+The higher level focus of the Master of Science in Data Science as below
+
+  1. Prepare datasets for solving problems.
+  2. Recommend appropriate data modeling techniques to test hypotheses.
+  3. Communicate data science results into answers for domain challenges.
+  4. Identify ethical considerations in dataset preparation and modeling.
 
 ### Category Name : Introduction ( DS, Python, R and Stastics ) 
 
-[Introduction to DataScinece](/sample_page)
-
-
-<img src="Introduction DS.png"/>
-
 ---
-[The Weather App - Python](https://github.com/RGunasekaran21249030/DS510_Week2_1)
+[1. The Weather App - Python](https://github.com/RGunasekaran21249030/DS510_Week2_1)
 <img src="Weather App.png"/>
 
 ---
