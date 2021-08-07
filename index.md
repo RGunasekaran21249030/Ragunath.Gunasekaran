@@ -5,7 +5,7 @@ I'm a Strong Data Analytics professional (Data Architect) with a Master of Scien
 I’m looking forward to apply various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Reporting and Analytics / AI projects, machine learning, and applications of data science.
 
 
-### Category Name : Introuction ( Data Science, Python, R and Stastics ) 
+### Category Name : Introduction ( DS, Python, R and Stastics ) 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
