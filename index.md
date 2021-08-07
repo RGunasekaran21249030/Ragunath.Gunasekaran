@@ -5,7 +5,7 @@ I'm a Strong Data Analytics professional (Data Architect) with a Master of Scien
 I’m looking forward to applying various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Reporting and Analytics / AI projects, machine learning, and applications of data science.
 
 The higher level focus of the Master of Science in Data Science as below
-
+ <br> </br>
   <br>1. Preparation of datasets for solving problems.
   
   <br>2. Recommendation of appropriate data modeling techniques to test hypotheses.
