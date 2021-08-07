@@ -1,15 +1,15 @@
 # Welcome to my portfolio.
 
-I'm a Strong Data Analytics professional (Data Architect) with a Master of Science - MS focused in Data Science from Bellevue University.  As part of MS Program, I have specialized in Machine Learning, Data Mining, Exploratory Data Analysis, Visualization, Python R and Big Data.
+I'm a Strong Data Analytics professional (Data Architect) with a Master of Science - MS focused in Data Science from Bellevue University.  As part of the MS Program, I have specialized in Machine Learning, Data Mining, Exploratory Data Analysis, Visualization, Python R and Big Data.
 
-I’m looking forward to apply various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Reporting and Analytics / AI projects, machine learning, and applications of data science.
+I’m looking forward to applying various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Reporting and Analytics / AI projects, machine learning, and applications of data science.
 
 The higher level focus of the Master of Science in Data Science as below
 
-  1. Prepararation of datasets for solving problems.
-  2. Recommendatio of appropriate data modeling techniques to test hypotheses.
-  3. Communicatation of data science results into answers for domain challenges.
-  4. Identify ethical considerations in dataset preparation and modeling.
+  1. Preparation of datasets for solving problems.
+  2. Recommendation of appropriate data modeling techniques to test hypotheses.
+  3. Communication of data science results in answers for domain challenges.
+  4. Identify ethical considerations in dataset preparation and modeling.
 
 ---
 
@@ -19,9 +19,9 @@ The higher level focus of the Master of Science in Data Science as below
 
 [Github Location](https://github.com/RGunasekaran21249030/DSC520-new/tree/master/assignments/Final%20Project)
 
-My Project intends to thoroughly exploratory data analysis of the avocado prices increase along with customer behavior. The Data comes from Kaggle which is provided by Hass Avocado Board website compiled into a one CSV file and the data contains from 2015 to 2018 Avocado Purchases in the USA. The Project also tries to analyze the price elasticity of demand and find the comparison of conventional and organic avocados since Organic consumption is increasing in recent days.
+My Project intends to thoroughly exploratory data analysis of the avocado prices increase along with customer behavior. The Data comes from Kaggle which is provided by the Hass Avocado Board website compiled into a one CSV file and the data contains from 2015 to 2018 Avocado Purchases in the USA. The Project also tries to analyze the price elasticity of demand and find the comparison of conventional and organic avocados since Organic consumption is increasing in recent days.
 
-This project developed by using R Programming. Also I have used various stastics related regression Linear, Multi-Linear Techniques and various visulization techniques.
+This project developed by using R Programming. Also I have used various statistics related to regression Linear, Multi-Linear Techniques and various visualization techniques.
 
 <img src="Avocado Price Prediction.jpg?raw=true"/>
 
@@ -32,7 +32,7 @@ This project developed by using R Programming. Also I have used various stastics
 
 [Github Location](https://github.com/RGunasekaran21249030/DS510_Week2_1)
 
-In this semester worked on the various Python functions and learnt the programatic approaches in Python. As part of the Weather App using python.
+In this semester I worked on the various Python functions and learnt the programmatic approaches in Python. As part of the Weather App using python.
 
 Below image is similar to the App which I created - Ref from Google
 
@@ -45,7 +45,7 @@ Below image is similar to the App which I created - Ref from Google
 
 [Github location](https://github.com/RGunasekaran21249030/DS530-RGunasekaran/tree/master/Final%20Project)
 
-Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends, Geographic and Various visualizations, Prediction of CoronaVirus in the USA by using COVID19 Datasets and Python Programming Language. As part of this Proejct, I have used various stastics related distribution like PDF, CDF, PMF.
+Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends, Geographic and Various visualizations, Prediction of CoronaVirus in the USA by using COVID19 Datasets and Python Programming Language. As part of this Project, I have used various statistics related distributions like PDF, CDF, PMF.
 
 This project developed by using Python Programming.
 
@@ -57,7 +57,7 @@ This project developed by using Python Programming.
 
 [Github location](https://github.com/RGunasekaran21249030/dsc520/blob/master/Final_Project1_GunasekaranRagunath%20(2)%20(1).docx)
 
-Data consolidated Kaggle and Twitter API. The model used was very basic approaches. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied all the new features and make this prediction work very well. 
+Data consolidated Kaggle and Twitter API. The model used was very basic. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied to all the new features and make this prediction work very well. 
 
 This project developed by using R Programming.
 
@@ -67,13 +67,13 @@ This project developed by using R Programming.
 
 ## Data Preparation
 
-### 5. Indicators of World Development and COVID19 Impacts - Python and Power BI
+### 5. Indicators of World Development and COVID19 Impacts
 
 [Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
 
-The aim of the Project is to analysis to answer interesting questions about the world development indicators and COVID19 Impacts dataset that was provided by the World Bank.
+The aim of the Project is to analyze and answer interesting questions about the world development indicators and COVID19 Impacts dataset that was provided by the World Bank.
 
-This project developed by using Python Programming.
+This project developed by using SQL, Python and Power BI
 
 
 <img src="COVID19EDA.PNG"/>
@@ -82,10 +82,10 @@ This project developed by using Python Programming.
 
 ## Data Mining
 
-### 6. Customer Review Analysis and Recommendations - Python
+### 6. Customer Review Analysis and Recommendations - Python and NLP
 [Github location](https://github.com/RGunasekaran21249030/DSC550/tree/master/Week%2010)
 
-I have done some Sentimental Analytics and NLTP techniques to perform the Customer Review and Recommendation of Product Analysis. I have performed EDA Very well and implemented all the necessary best practices. Data used from Amazon and Kaggle. Out of 6 models, SVM performed well
+I have done some Sentimental Analytics and NLP techniques to perform the Customer Review and Recommendation of Product Analysis. I have performed EDA Very well and implemented all the necessary best practices. Data used from Amazon and Kaggle. Out of 6 models, SVM performed well
 
 <img src="Sentiment.PNG"/>
 
@@ -94,7 +94,7 @@ I have done some Sentimental Analytics and NLTP techniques to perform the Custom
 ### 7. The Application of Predictive Analytics on COVID 19 Cases and Deaths - Time Series
 [Github location](https://github.com/RGunasekaran21249030/DSC630)
 
-I have built Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
+I have built a Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
 
 <img src="Predictive Analysis.PNG"/>
 
@@ -104,7 +104,7 @@ I have built Time Series ARIMA Model to the Application of Predictive Analytics 
 ### 8. Binary classification example Classifying movie reviews - keras
 [Github location](https://github.com/RGunasekaran21249030/dsc650)
 
-As part of Big Data Project, I have set up the of data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
+As part of the Big Data Project, I have set up the data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
 
 <img src="Big Data.PNG"/>
 
@@ -117,6 +117,5 @@ As part of Big Data Project, I have set up the of data infrastructure and formed
 ---
 <p style="font-size:11px">Reference <a href="https://github.com/evanca/quick-portfolio"> portfolio</a></p>
 <!-- Remove above link if you don't want to attibute -->
-
 
 
