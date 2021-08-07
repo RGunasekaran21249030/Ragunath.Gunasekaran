@@ -13,7 +13,7 @@ The higher level focus of the Master of Science in Data Science as below
 
 ---
 
-## Category Name : Statistics for Data Science 
+## Statistics for Data Science 
 
 ### 1. Avocado Price Prediction - R
 
