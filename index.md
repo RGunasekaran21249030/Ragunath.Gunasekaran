@@ -41,7 +41,7 @@ In this semester worked on the various Python functions and learnt the programat
 
 #### 3. COVID19 EDA - Trends and Outbreak Prediction of Spread in USA - Python
 
-[Github location] (https://github.com/RGunasekaran21249030/DS530-RGunasekaran/tree/master/Final%20Project)
+[Github location](https://github.com/RGunasekaran21249030/DS530-RGunasekaran/tree/master/Final%20Project)
 
 Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends, Geographic and Various visualizations, Prediction of CoronaVirus in the USA by using COVID19 Datasets and Python Programming Language. As part of this Proejct, I have used various stastics related distribution like PDF, CDF, PMF.
 
