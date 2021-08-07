@@ -1,6 +1,7 @@
 title: Ragunath Gunasekaran # your name (or website title) here
 logo : "1516551230067.jfif"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/ragunath-gunasekaran-30130663/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ragunath-gunasekaran-30130663/">View My LinkedIn Profile</a>
+   <a email="ragunath.caritor@gmail.com"> Email Address </a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
