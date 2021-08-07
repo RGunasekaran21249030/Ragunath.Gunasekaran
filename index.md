@@ -26,7 +26,9 @@ My Project intends to thoroughly exploratory data analysis of the avocado prices
 This project developed by using R Programming. Also I have used various stastics related regression Linear, Multi-Linear Techniques and various visulization techniques.
 
 <img src="Avocado Price Prediction.jpg?raw=true"/>
----
+
+----
+
 #### 2. The Weather App - Python
 
 [Github Location](https://github.com/RGunasekaran21249030/DS510_Week2_1)
