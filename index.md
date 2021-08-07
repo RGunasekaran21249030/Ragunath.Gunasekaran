@@ -15,7 +15,7 @@ The higher level focus of the Master of Science in Data Science as below
 
 ## Category Name : Introduction ( DS, Python, R and Stastics ) 
 
-### 1. Avocado Price Prediction - Exploratory Data Analysis in R
+### 1. Avocado Price Prediction - R
 
 [Github Location](https://github.com/RGunasekaran21249030/DSC520-new/tree/master/assignments/Final%20Project)
 
@@ -55,7 +55,7 @@ This project developed by using Python Programming.
 
 ## Category Name : Exploratory Data Analysis
 
-### 4. Indicators of World Development and COVID19 Impacts 
+### 4. Indicators of World Development and COVID19 Impacts - Python and Power BI
 
 [Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
 
