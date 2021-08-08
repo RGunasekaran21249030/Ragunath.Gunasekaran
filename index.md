@@ -22,7 +22,7 @@ The higher level focus of the Master of Science in Data Science as below :
 
 My Project intends to thoroughly exploratory data analysis of the avocado prices increase along with customer behavior. The Data comes from Kaggle which is provided by the Hass Avocado Board website compiled into a one CSV file and the data contains from 2015 to 2018 Avocado Purchases in the USA. The Project also tries to analyze the price elasticity of demand and find the comparison of conventional and organic avocados since Organic consumption is increasing in recent days.
 
-> This project developed by using R Programming. Also I have used various statistics related to regression Linear, Multi-Linear Techniques and various visualization techniques.
+> This project developed using R Programming. Also I have used various statistics related to regression Linear, Multi-Linear Techniques and various visualization techniques.
 
 <img src="Avocado Price Prediction.jpg?raw=true"/>
 
