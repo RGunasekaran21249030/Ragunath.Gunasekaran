@@ -8,5 +8,5 @@ description: > # your text below (remove <br> elements if you don't need line br
    <a> Phone : 802 917 5493 </a> 
    
    
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
