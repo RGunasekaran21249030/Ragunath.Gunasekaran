@@ -117,9 +117,9 @@ As part of the Big Data Project, I have set up the data infrastructure and forme
 
 
 ## References
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-[3] https://github.com/evanca/quick-portfolio
+<br>[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] https://github.com/evanca/quick-portfolio
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/RGunasekaran21249030/RagunathGuasekaran.github.io">Ragunath Gunasekaran </a></p>
