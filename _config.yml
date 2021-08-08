@@ -5,8 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br></br>
    <a> Email : ragunath.caritor@gmail.com </a> 
    <br></br>
-   <a> Phone : 802 917 5493 </a> 
-   
+   <a> Phone : 802 917 5493 </a>   
    
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
