@@ -163,7 +163,7 @@ In this project, I had presented various data to support Airline Safety and just
 
 
 <!-- modify this form HTML and place wherever you want your form -->
-
+## Contact
 <form
   action="https://formspree.io/f/moqykbno"
   method="POST"
@@ -172,7 +172,7 @@ In this project, I had presented various data to support Airline Safety and just
     Your email:
     <input type="email" name="_replyto">
   </label>
-  <br><br>
+   <br><br>
   <label>
     Your message:
     <textarea name="message"></textarea>
