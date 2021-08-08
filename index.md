@@ -149,7 +149,6 @@ In this project, I had presented various data to support Airline Safety and just
 
 ---
 
-
 ## References
 <br>[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
 <br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
@@ -157,6 +156,7 @@ In this project, I had presented various data to support Airline Safety and just
 
 <!-- modify this form HTML and place wherever you want your form -->
 
+---
 
 ## Contact me
 <form
