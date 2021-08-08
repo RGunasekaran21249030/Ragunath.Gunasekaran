@@ -1,5 +1,5 @@
 title: Ragunath Gunasekaran # your name (or website title) here
-logo : "1516551230067.jfif"
+logo : "Retail.PNG"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/ragunath-gunasekaran-30130663/">View My LinkedIn Profile</a>
   <br></br>
@@ -7,5 +7,5 @@ description: > # your text below (remove <br> elements if you don't need line br
    <br></br>
    <a> Phone : 802 917 5493 </a>   
    
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
