@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
    <br></br>
    <a> Phone : 802 917 5493 </a>   
    <br></br>
-<a> <strong> Skills : Python, R, ML, AI, Power BI, MS BI, SQL, Hive </a>
+   <a> Skills : Python, R, ML, AI, Power BI, MS BI, SQL, Hive </a>
 
 
 show_downloads: true
