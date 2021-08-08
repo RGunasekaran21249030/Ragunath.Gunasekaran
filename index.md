@@ -127,7 +127,7 @@ In this project, I had presented various data to support Airline Safety and just
 
 > This project was developed using Python and Python, R.
 
-<img src="Week8_RagunathGunasekaran_Infographic1.PNG"/>
+<img src="Week8_RagunathGunasekaran_Infographic1.png"/>
 
 ---
 
