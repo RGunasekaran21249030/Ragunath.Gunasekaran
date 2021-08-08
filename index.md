@@ -184,7 +184,7 @@ In this project, I had presented various data to support Airline Safety and just
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://rgunasekaran21249030.github.io/Ragunath.Gunasekaran/">Ragunath Gunasekaran </a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/RGunasekaran21249030/Ragunath.Gunasekaran">Ragunath Gunasekaran </a></p>
 <!-- Remove above link if you don't want to attibute -->
 
 ---
