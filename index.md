@@ -155,15 +155,8 @@ In this project, I had presented various data to support Airline Safety and just
 <br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
 <br>[3] https://github.com/evanca/quick-portfolio
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/RGunasekaran21249030/RagunathGuasekaran.github.io">Ragunath Gunasekaran </a></p>
-<!-- Remove above link if you don't want to attibute -->
-
----
-
-
 <!-- modify this form HTML and place wherever you want your form -->
-## Contact
+## Contact me
 <form
   action="https://formspree.io/f/moqykbno"
   method="POST"
@@ -182,3 +175,11 @@ In this project, I had presented various data to support Airline Safety and just
 
   <button type="submit">Send</button>
 </form>
+
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/RGunasekaran21249030/RagunathGuasekaran.github.io">Ragunath Gunasekaran </a></p>
+<!-- Remove above link if you don't want to attibute -->
+
+---
