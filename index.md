@@ -37,7 +37,7 @@ In this semester I worked on the various Python functions and learnt the program
 
 > This project was developed using Python and API Programming.
 
-Below image is similar to the App which I created - Ref from Google
+Below image is similar to the App which I created  ( Ref 4)
 
 <img src="Weather App.png"/>
 
@@ -155,6 +155,7 @@ In this project, I had presented various data to support Airline Safety and just
 <br>[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
 <br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
 <br>[3] https://github.com/evanca/quick-portfolio
+<br>[4] https://github.com/shanmathik/Weather-GUI
 
 <!-- modify this form HTML and place wherever you want your form -->
 
