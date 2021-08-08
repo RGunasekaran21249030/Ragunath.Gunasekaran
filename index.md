@@ -1,5 +1,7 @@
 # Welcome to My Portfolio
 
+Hello and welcome to my Portfolio for MS Data Science! My name is Ragunath Gunasekaran and I am making this portfolio to display my project works during this program.
+
 I'm a Strong Data Analytics professional (Data Architect) with a Master of Science - MS focused in Data Science from Bellevue University.  As part of the MS Program, I have specialized in Machine Learning, Data Mining, Exploratory Data Analysis, Visualization, Python R and Big Data.
 
 I’m looking forward to applying various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Analytics, Reporting and Analytics / AI projects, machine learning, and applications of data science.
