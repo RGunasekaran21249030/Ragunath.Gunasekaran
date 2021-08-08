@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
    <a> <strong>Skills </strong> : Python, R, ML, AI, Power BI, MS BI, SQL, Hive </a>
     <a>
     Your email:
-    <input type="email" name="_replyto">
+    <input type="email" name="_replyfrom">
   </a>
    <br><br>
 theme: jekyll-theme-minimal
