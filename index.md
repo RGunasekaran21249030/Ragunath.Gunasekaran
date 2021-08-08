@@ -103,6 +103,7 @@ I have built a Time Series ARIMA Model to the Application of Predictive Analytic
 
 <img src="Predictive Analysis.PNG"/>
 
+---
 
 ## Big Data
 
@@ -114,6 +115,21 @@ As part of the Big Data Project, I have set up the data infrastructure and forme
 > This project was developed using Python and Keras/Tensorflow.
 
 <img src="Big Data.PNG"/>
+
+---
+## Data Presentation and Visualization
+
+### 9. Air Travel Safety - Power BI, Python
+
+[Github location](https://github.com/RGunasekaran21249030/DSC640)
+
+In this project, I had presented various data to support Airline Safety and justify that Air Travel when compare to Road and other mode of travel. 
+
+> This project was developed using Python and Python, R.
+
+<img src="Week8_RagunathGunasekaran_Infographic1.PNG"/>
+
+---
 
 
 ## References
