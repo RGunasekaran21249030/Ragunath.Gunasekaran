@@ -2,7 +2,7 @@
 
 I'm a Strong Data Analytics professional (Data Architect) with a Master of Science - MS focused in Data Science from Bellevue University.  As part of the MS Program, I have specialized in Machine Learning, Data Mining, Exploratory Data Analysis, Visualization, Python R and Big Data.
 
-I’m looking forward to applying various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Reporting and Analytics / AI projects, machine learning, and applications of data science.
+I’m looking forward to applying various techniques of the power of Artificial Intelligence, Machine Learning  and Big Data on Predictive Analytics, Reporting and Analytics / AI projects, machine learning, and applications of data science.
 
 The higher level focus of the Master of Science in Data Science as below : 
   <br>1. Preparation of datasets for solving problems.  
