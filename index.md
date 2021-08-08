@@ -101,7 +101,13 @@ I have built a Time Series ARIMA Model to the Application of Predictive Analytic
 
 > This project was developed using Python and Time Series Forecasting Algorithms.
 
+The below is the Dataflow for this project
+
+<img src="Predictive Analyiss.PNG"/>
+
+One of the ouptput to predict the cases for next 6 months
 <img src="Predictive Analysis.PNG"/>
+
 
 ---
 
