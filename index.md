@@ -111,9 +111,21 @@ One of the ouptput to predict the cases for next 6 months
 
 ---
 
+### 8. Retail Data Analytics of Store Sales - Python and Time Series
+[Github location](https://github.com/RGunasekaran21249030/DSC680)
+
+In this project, I focused on predicting the sales of shop and departments in future based on the forecasting and performance of sales. Also, especially important correlation between sales and Department, temperature, Holidays, and other parameters.
+
+> This project was developed using Python, ML Algorithms and Time Series Forecasting Algorithms.
+
+<img src="Retail.PNG"/>
+
+
+---
+
 ## Big Data
 
-### 8. Binary classification example Classifying movie reviews - keras
+### 9. Binary classification example Classifying movie reviews - keras
 [Github location](https://github.com/RGunasekaran21249030/dsc650)
 
 As part of the Big Data Project, I have set up the data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
@@ -125,7 +137,7 @@ As part of the Big Data Project, I have set up the data infrastructure and forme
 ---
 ## Data Presentation and Visualization
 
-### 9. Air Travel Safety - Power BI, Python
+### 10. Air Travel Safety - Power BI, Python
 
 [Github location](https://github.com/RGunasekaran21249030/DSC640)
 
