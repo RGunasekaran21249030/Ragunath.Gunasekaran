@@ -31,7 +31,7 @@ My Project intends to thoroughly exploratory data analysis of the avocado prices
 ## Introduction to Programming ( Python )
 ### 2. The Weather App - Python
 
-[Github Location](https://github.com/RGunasekaran21249030/DS510_Week2_1)
+[Github Location](https://github.com/RGunasekaran21249030/DS510)
 
 In this semester I worked on the various Python functions and learnt the programmatic approaches in Python. As part of the Weather App using python.
 
