@@ -99,7 +99,7 @@ I have done some Sentimental Analytics and NLP techniques to perform the Custome
 
 I have built a Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
 
-> This project was developed by Python and Time Series Forecasting Algorithms.
+> This project was developed using Python and Time Series Forecasting Algorithms.
 
 <img src="Predictive Analysis.PNG"/>
 
