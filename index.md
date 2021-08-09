@@ -118,6 +118,8 @@ One of the ouptput to predict the cases for next 6 months
 
 In this project, I focused on predicting the sales of shop and departments in future based on the forecasting and performance of sales. Also, especially important correlation between sales and Department, temperature, Holidays, and other parameters.
 
+I also applied Anomalies functionlity on the sales data to identify if any Anomalies in the Sales based on the History data.
+
 > This project was developed using Python, ML Algorithms and Time Series Forecasting Algorithms.
 
 <img src="Retail.PNG"/>
