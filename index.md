@@ -145,7 +145,7 @@ As part of the Big Data Project, I have set up the data infrastructure and forme
 
 [Github location](https://github.com/RGunasekaran21249030/DSC640)
 
-In this project, I presented various data to support Airline Safety and justify that Air Travel when compared to Road and other modes of travel. 
+In this project, I presented various data to support Airline Safety and justify that Air Travel is Safer when compared to Road and other modes of travel. 
 
 > This project was developed using Python and Python, R.
 
