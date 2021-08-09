@@ -4,7 +4,7 @@ Hello and welcome to my Portfolio for MS Data Science! My name is Ragunath Gunas
 
 I'm a Strong Data Analytics professional (Data Architect) with a Master of Science - MS focused in Data Science from Bellevue University.  As part of the MS Program, I have specialized in Machine Learning, Data Mining, Exploratory Data Analysis, Visualization, Python R and Big Data.
 
-I’m looking forward to develop various solutions using the power of Artificial Intelligence, Machine Learning, Statistics, Applications of data science and Big Data/Cloud Technology on Predictive/Prescriptive Analytics, Reporting and Analytics / AI projects, Automation Projects.
+I’m looking forward to develop various solutions using the power of Artificial Intelligence, Machine Learning, Statistics, Applications of data science and Big Data/Cloud Technology on Predictive/Prescriptive Analytics, Reporting, Data Architecture/Minning, AI and Automation Projects.
 
 The higher level focus of the Master of Science in Data Science as below : 
   <br>1. Preparation of datasets for solving problems.  
