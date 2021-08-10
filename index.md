@@ -143,7 +143,7 @@ As part of the Big Data Project, I have set up the data infrastructure and forme
 
 ### 10. Air Travel Safety - Power BI, Python
 
-[Github location](https://github.com/RGunasekaran21249030/DSC640)
+[Github location](https://github.com/RGunasekaran21249030/DSC640/tree/main/Final%20Project)
 
 In this project, I presented various data to support Airline Safety and justify that Air Travel is Safer when compared to Road and other modes of travel. 
 
