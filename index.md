@@ -97,7 +97,7 @@ I have done some Sentimental Analytics and NLP techniques to perform the Custome
 ## Predictive Analytics
 
 ### 7. The Application of Predictive Analytics on COVID 19 Cases and Deaths - Time Series
-[Github location](https://github.com/RGunasekaran21249030/DSC630)
+[Github location](https://github.com/RGunasekaran21249030/DSC630/tree/master/Final%20Project)
 
 I have built a Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
 
