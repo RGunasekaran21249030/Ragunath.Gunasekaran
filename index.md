@@ -26,25 +26,9 @@ My Project intends to thoroughly exploratory data analysis of the avocado prices
 
 <img src="Avocado Price Prediction.jpg?raw=true"/>
 
-----
-
-## Introduction to Programming ( Python )
-### 2. The Weather App - Python
-
-[Github Location](https://github.com/RGunasekaran21249030/DS510)
-
-In this semester I worked on the various Python functions and learnt the programmatic approaches in Python. As part of the Weather App using python.
-
-> This project was developed using Python and API Programming.
-
-Below image is similar to the App which I created  ( Ref 4)
-
-<img src="Weather App.png"/>
-
----
 
 ## Data Exploration and Analysis
-### 3. COVID19 EDA - Trends and Outbreak of Spread in USA - Python
+### 2. COVID19 EDA - Trends and Outbreak of Spread in USA - Python
 
 [Github location](https://github.com/RGunasekaran21249030/DS530-RGunasekaran/tree/master/Final%20Project)
 
@@ -56,7 +40,7 @@ Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends,
 <img src="PDF.PNG"/>
 
 ---
-### 4. US Election prediction - R
+### 3. US Election prediction - R
 
 [Github location](https://github.com/RGunasekaran21249030/dsc520/tree/master/Final%20Project)
 
@@ -70,7 +54,7 @@ Data consolidated Kaggle and Twitter API. The model used was very basic. After t
 
 ## Data Preparation
 
-### 5. Indicators of World Development and COVID19 Impacts
+### 4. Indicators of World Development and COVID19 Impacts
 
 [Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Final%20Project)
 
@@ -85,7 +69,7 @@ The aim of the Project is to analyze and answer interesting questions about the 
 
 ## Data Mining
 
-### 6. Customer Review Analysis and Recommendations - Python and NLP
+### 5. Customer Review Analysis and Recommendations - Python and NLP
 [Github location](https://github.com/RGunasekaran21249030/DSC550/tree/master/Final%20Project)
 
 I have done some Sentimental Analytics and NLP techniques to perform the Customer Review and Recommendation of Product Analysis. I have performed EDA Very well and implemented all the necessary best practices. Data used from Amazon and Kaggle. Out of 6 models, SVM performed well
@@ -96,7 +80,7 @@ I have done some Sentimental Analytics and NLP techniques to perform the Custome
 
 ## Predictive Analytics
 
-### 7. The Application of Predictive Analytics on COVID 19 Cases and Deaths - Time Series
+### 6. The Application of Predictive Analytics on COVID 19 Cases and Deaths - Time Series
 [Github location](https://github.com/RGunasekaran21249030/DSC630/tree/master/Final%20Project)
 
 I have built a Time Series ARIMA Model to the Application of Predictive Analytics on COVID 19 Cases and Deaths USA and India.
@@ -113,7 +97,7 @@ One of the ouptput to predict the cases for next 6 months
 
 ---
 
-### 8. Retail Data Analytics of Store Sales - Python and Time Series
+### 7. Retail Data Analytics of Store Sales - Python and Time Series
 [Github location](https://github.com/RGunasekaran21249030/DSC680/tree/main/Final%20Project)
 
 In this project, I focused on predicting the sales of shop and departments in future based on the forecasting and performance of sales. Also, especially important correlation between sales and Department, temperature, Holidays, and other parameters.
@@ -129,7 +113,7 @@ I also applied Anomalies functionality on the sales data to identify any Anomali
 
 ## Big Data
 
-### 9. Binary classification example Classifying movie reviews - keras
+### 8. Binary classification example Classifying movie reviews - keras
 [Github location](https://github.com/RGunasekaran21249030/dsc650/tree/master/Final%20Project)
 
 As part of the Big Data Project, I have set up the data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
@@ -139,6 +123,22 @@ As part of the Big Data Project, I have set up the data infrastructure and forme
 <img src="Big Data.PNG"/>
 
 ---
+
+## Introduction to Programming ( Python )
+### 9. The Weather App - Python
+
+[Github Location](https://github.com/RGunasekaran21249030/DS510)
+
+In this semester I worked on the various Python functions and learnt the programmatic approaches in Python. As part of the Weather App using python.
+
+> This project was developed using Python and API Programming.
+
+Below image is similar to the App which I created  ( Ref 4)
+
+<img src="Weather App.png"/>
+
+---
+
 ## Data Presentation and Visualization
 
 ### 10. Air Travel Safety - Power BI, Python
