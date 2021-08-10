@@ -72,7 +72,7 @@ Data consolidated Kaggle and Twitter API. The model used was very basic. After t
 
 ### 5. Indicators of World Development and COVID19 Impacts
 
-[Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Week%2011%20%26%2012)
+[Github location](https://github.com/RGunasekaran21249030/DSC540/tree/master/Final%20Project)
 
 The aim of the Project is to analyze and answer interesting questions about the world development indicators and COVID19 Impacts dataset that was provided by the World Bank.
 
