@@ -86,7 +86,7 @@ The aim of the Project is to analyze and answer interesting questions about the 
 ## Data Mining
 
 ### 6. Customer Review Analysis and Recommendations - Python and NLP
-[Github location](https://github.com/RGunasekaran21249030/DSC550/tree/master/Week%2010)
+[Github location](https://github.com/RGunasekaran21249030/DSC550/tree/master/Final%20Project)
 
 I have done some Sentimental Analytics and NLP techniques to perform the Customer Review and Recommendation of Product Analysis. I have performed EDA Very well and implemented all the necessary best practices. Data used from Amazon and Kaggle. Out of 6 models, SVM performed well
 
