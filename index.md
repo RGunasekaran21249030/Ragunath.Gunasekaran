@@ -130,7 +130,7 @@ I also applied Anomalies functionality on the sales data to identify any Anomali
 ## Big Data
 
 ### 9. Binary classification example Classifying movie reviews - keras
-[Github location](https://github.com/RGunasekaran21249030/dsc650)
+[Github location](https://github.com/RGunasekaran21249030/dsc650/tree/master/Final%20Project)
 
 As part of the Big Data Project, I have set up the data infrastructure and formed a process to refine data into usable datasets.Also built the predictive modeling pipeline by using Keras and Tensorflow. 
 
