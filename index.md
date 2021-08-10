@@ -58,7 +58,7 @@ Develop COVID19 Data Tracker Tool with Key Performance Indicators (KPI), Trends,
 ---
 ### 4. US Election prediction - R
 
-[Github location](https://github.com/RGunasekaran21249030/dsc520/blob/master/Final_Project1_GunasekaranRagunath%20(2)%20(1).docx)
+[Github location](https://github.com/RGunasekaran21249030/dsc520/tree/master/Final%20Project)
 
 Data consolidated Kaggle and Twitter API. The model used was very basic. After this semester, I have learnt about model performance and testing options. Hence this project work can be re-visited and applied to all the new features and make this prediction work very well. 
 
