@@ -114,7 +114,7 @@ One of the ouptput to predict the cases for next 6 months
 ---
 
 ### 8. Retail Data Analytics of Store Sales - Python and Time Series
-[Github location](https://github.com/RGunasekaran21249030/DSC680)
+[Github location](https://github.com/RGunasekaran21249030/DSC680/tree/main/Final%20Project)
 
 In this project, I focused on predicting the sales of shop and departments in future based on the forecasting and performance of sales. Also, especially important correlation between sales and Department, temperature, Holidays, and other parameters.
 
